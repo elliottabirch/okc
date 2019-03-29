@@ -1,0 +1,23 @@
+{
+  "name": "okc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliottabirch/okc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliottabirch/okc/issues"
+  },
+  "homepage": "https://github.com/elliottabirch/okc#readme",
+  "dependencies": {
+    "highland": "^3.0.0-beta.3",
+    "okcupidjs": "^1.1.4"
+  }
+}
